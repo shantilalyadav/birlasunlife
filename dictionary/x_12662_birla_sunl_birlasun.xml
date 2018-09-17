@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="birlasun" max_length="40" name="x_12662_birla_sunl_birlasun" type="collection">
+        <element label="address" max_length="50" name="address" type="string"/>
+        <element label="cod" max_length="40" name="cod" type="glide_date_time"/>
+        <element label="custname" max_length="32" name="custname" reference="sys_user" type="reference"/>
+        <element label="esum" max_length="40" name="esum" type="float"/>
+        <element label="matamount" max_length="40" name="matamount" type="float"/>
+        <element label="matdate" max_length="40" name="matdate" type="glide_date_time"/>
+        <element label="Premium" max_length="40" name="premium" type="float"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Premtype" max_length="40" name="premtype" type="string">
+            <choice>
+                <element label="Yearly" sequence="0" value="Yearly"/>
+                <element label="HalfYearly" sequence="1" value="HalfYearly"/>
+                <element label="Quaterly" sequence="2" value="Quaterly"/>
+                <element label="Monthly" sequence="3" value="Monthly"/>
+            </choice>
+        </element>
+        <element label="Term" max_length="40" name="term" type="integer"/>
+    </element>
+</database>

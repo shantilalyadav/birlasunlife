@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="premtype" label="Premtype" language="en" table="x_12662_birla_sunl_birlasun">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>premtype</element>
+            <help/>
+            <hint/>
+            <label>Premtype</label>
+            <language>en</language>
+            <name>x_12662_birla_sunl_birlasun</name>
+            <plural>Premtypes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:53</sys_created_on>
+            <sys_id>bdfa4dee4fe06300e963c4b18110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Premtype</sys_name>
+            <sys_package display_value="BIRLA_SUNLIFE" source="x_12662_birla_sunl">e74045ea4fa06300e963c4b18110c75e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BIRLA_SUNLIFE">e74045ea4fa06300e963c4b18110c75e</sys_scope>
+            <sys_update_name>sys_documentation_x_12662_birla_sunl_birlasun_premtype_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

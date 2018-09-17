@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="premtype" table="x_12662_birla_sunl_birlasun" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>premtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yearly</label>
+            <language>en</language>
+            <name>x_12662_birla_sunl_birlasun</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 15:01:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f33bc1ee4fe06300e963c4b18110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 15:01:06</sys_updated_on>
+            <value>Yearly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>premtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HalfYearly</label>
+            <language>en</language>
+            <name>x_12662_birla_sunl_birlasun</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 15:01:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b3bc1ee4fe06300e963c4b18110c7eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 15:01:06</sys_updated_on>
+            <value>HalfYearly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>premtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quaterly</label>
+            <language>en</language>
+            <name>x_12662_birla_sunl_birlasun</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 15:01:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b33b01224f246300e963c4b18110c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 15:01:06</sys_updated_on>
+            <value>Quaterly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>premtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monthly</label>
+            <language>en</language>
+            <name>x_12662_birla_sunl_birlasun</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 15:01:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b33b01224f246300e963c4b18110c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 15:01:06</sys_updated_on>
+            <value>Monthly</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>premtype</element>
+            <name>x_12662_birla_sunl_birlasun</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 15:01:06</sys_created_on>
+            <sys_id>b33bc1ee4fe06300e963c4b18110c7eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>premtype</sys_name>
+            <sys_package display_value="BIRLA_SUNLIFE" source="x_12662_birla_sunl">e74045ea4fa06300e963c4b18110c75e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BIRLA_SUNLIFE">e74045ea4fa06300e963c4b18110c75e</sys_scope>
+            <sys_update_name>sys_choice_x_12662_birla_sunl_birlasun_premtype</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 15:01:06</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

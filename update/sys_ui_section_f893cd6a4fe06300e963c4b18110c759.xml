@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="f893cd6a4fe06300e963c4b18110c759" sys_domain="global" table="x_12662_birla_sunl_birlasun" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:54</sys_created_on>
+            <sys_id>46fa4dee4fe06300e963c4b18110c71a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12662_birla_sunl_birlasun" sys_domain="global" view="Default view">f893cd6a4fe06300e963c4b18110c759</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>custname</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:54</sys_created_on>
+            <sys_id>cafa4dee4fe06300e963c4b18110c71a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12662_birla_sunl_birlasun" sys_domain="global" view="Default view">f893cd6a4fe06300e963c4b18110c759</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:54</sys_created_on>
+            <sys_id>4efa4dee4fe06300e963c4b18110c71a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12662_birla_sunl_birlasun" sys_domain="global" view="Default view">f893cd6a4fe06300e963c4b18110c759</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:54</sys_created_on>
+            <sys_id>cefa4dee4fe06300e963c4b18110c71a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12662_birla_sunl_birlasun" sys_domain="global" view="Default view">f893cd6a4fe06300e963c4b18110c759</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cod</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:54</sys_created_on>
+            <sys_id>42fa4dee4fe06300e963c4b18110c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12662_birla_sunl_birlasun" sys_domain="global" view="Default view">f893cd6a4fe06300e963c4b18110c759</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>term</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:54</sys_created_on>
+            <sys_id>c2fa4dee4fe06300e963c4b18110c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12662_birla_sunl_birlasun" sys_domain="global" view="Default view">f893cd6a4fe06300e963c4b18110c759</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>premtype</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:59:54</sys_created_on>
+            <sys_id>46fa4dee4fe06300e963c4b18110c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12662_birla_sunl_birlasun" sys_domain="global" view="Default view">f893cd6a4fe06300e963c4b18110c759</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:59:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_12662_birla_sunl_birlasun</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 14:27:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f893cd6a4fe06300e963c4b18110c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_12662_birla_sunl_birlasun</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BIRLA_SUNLIFE" source="x_12662_birla_sunl">e74045ea4fa06300e963c4b18110c75e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BIRLA_SUNLIFE">e74045ea4fa06300e963c4b18110c75e</sys_scope>
+            <sys_update_name>sys_ui_section_f893cd6a4fe06300e963c4b18110c759</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 14:27:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

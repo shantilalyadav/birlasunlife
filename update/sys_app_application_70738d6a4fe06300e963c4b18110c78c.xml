@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>birlasun</name>
+        <order>100</order>
+        <roles>x_12662_birla_sunl.birlasun_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-17 14:27:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70738d6a4fe06300e963c4b18110c78c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>birlasun</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BIRLA_SUNLIFE" source="x_12662_birla_sunl">e74045ea4fa06300e963c4b18110c75e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIRLA_SUNLIFE">e74045ea4fa06300e963c4b18110c75e</sys_scope>
+        <sys_update_name>sys_app_application_70738d6a4fe06300e963c4b18110c78c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-17 14:27:03</sys_updated_on>
+        <title>birlasun</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
